@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "question_text": "Stock assessment primarily aims to determine:",
+    "choices": {
+      "A": "Optimal fishing gear size",
+      "B": "Status and productivity of fish stocks",
+      "C": "Weather conditions during fishing",
+      "D": "Marketing channels of fish products"
+    },
+    "correct_choice": "B"
+  },
+  {
+    "id": 2,
+    "question_text": "In fisheries science, a “stock” refers to:",
+    "choices": {
+      "A": "Any collection of fish sold in the market",
+      "B": "A population unit of a species managed as one entity",
+      "C": "A warehouse of fish products",
+      "D": "A fish hatchery facility"
+    },
+    "correct_choice": "B"
+  },
+  {
+    "id": 3,
+    "question_text": "Which of the following best describes “recruitment” in stock assessment?",
+    "choices": {
+      "A": "The process of hiring new fishery workers",
+      "B": "The addition of fish to a harvestable stock",
+      "C": "The transfer of fish from one market to another",
+      "D": "The growth of fish after spawning"
+    },
+    "correct_choice": "B"
+  },
+  {
+    "id": 4,
+    "question_text": "Catch-per-unit effort (CPUE) is widely used as an index of:",
+    "choices": {
+      "A": "Fish price",
+      "B": "Fishing vessel size",
+      "C": "Relative abundance of fish",
+      "D": "Water quality"
+    },
+    "correct_choice": "C"
+  },
+  {
+    "id": 5,
+    "question_text": "Fishery-dependent data are collected:",
+    "choices": {
+      "A": "From independent scientific surveys",
+      "B": "Directly from commercial or municipal fisheries operations",
+      "C": "Only from laboratory experiments",
+      "D": "Exclusively from aquaculture farms"
+    },
+    "correct_choice": "B"
+  },
+  {
+    "id": 6,
+    "question_text": "Logbooks, landing records and observer programs are examples of:",
+    "choices": {
+      "A": "Fishery-independent data",
+      "B": "Fishery-dependent data",
+      "C": "Market surveys",
+      "D": "Environmental data"
+    },
+    "correct_choice": "B"
+  },
+  {
+    "id
